@@ -934,3 +934,9 @@ body {
     justify-self: center;
   }
 }
+
+@media (max-width: 1024px) {
+  .about img {
+    bottom: 0;
+  }
+}
